@@ -110,8 +110,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:037827_0000_100F80BBA4D32F60"/>
-            <pb facs="tcp:037827_0001_100F7982631F8038"/>
+            <pb facs="unknown:037827_0000_100F80BBA4D32F60"/>
+            <pb facs="unknown:037827_0001_100F7982631F8038"/>
             <p>THE <hi>LIFE and DEATH</hi> OF ROBIN HOOD, <hi>COMPLETE</hi> IN TWENTY-FOUR <hi>SONGS.</hi>
             </p>
             <p>
@@ -120,7 +120,7 @@
       </front>
       <body>
          <div type="songs">
-            <pb facs="tcp:037827_0002_100F7983E4C3CDE0"/>
+            <pb facs="unknown:037827_0002_100F7983E4C3CDE0"/>
             <head>Robin Hood's Garland.</head>
             <div type="song">
                <head>
@@ -150,7 +150,7 @@
                   </gap>
                </l>
                <l>
-                  <pb n="4" facs="tcp:037827_0003_100F798569E72C40"/>
+                  <pb n="4" facs="unknown:037827_0003_100F798569E72C40"/>
 And flew the great boar that hung up at the gate</l>
                <l>Or mine holl at the bull tells a lie.</l>
                <l>Her brother was Gamwell of great Gamwell hall</l>
@@ -188,7 +188,7 @@ And flew the great boar that hung up at the gate</l>
                <l>And then Robin gallop'd, and ne'er gave o'er,</l>
                <l>Till he lighted at Gamwell hall.</l>
                <l>
-                  <pb n="5" facs="tcp:037827_0004_100F809379D6ABD0"/>
+                  <pb n="5" facs="unknown:037827_0004_100F809379D6ABD0"/>
 And now you may think the right worſhipful 'Squire</l>
                <l>Was joyful his ſi<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
@@ -251,7 +251,7 @@ And now you may think the right worſhipful 'Squire</l>
                      <desc>••</desc>
                   </gap>aff of my age,</l>
                <l>
-                  <pb n="6" facs="tcp:037827_0005_100F809686E28708"/>
+                  <pb n="6" facs="unknown:037827_0005_100F809686E28708"/>
 Then grant me my boon, dear uncle, ſaid Robin,</l>
                <l>That little John may be my page.</l>
                <l>And he ſaid, kind couſin, I grant thee thy boon,</l>
@@ -288,7 +288,7 @@ Then grant me my boon, dear uncle, ſaid Robin,</l>
                <l>She made him anſwer, to kill a fat buck,</l>
                <l>For to-morrow is Tidbury day.</l>
                <l>
-                  <pb n="7" facs="tcp:037827_0006_100F80981D282450"/>
+                  <pb n="7" facs="unknown:037827_0006_100F80981D282450"/>
 Said Robin Hood, lady fair, wander with me,</l>
                <l>A little with me to yon bower,</l>
                <l>There ſit and reſt you, and you ſhall be ſure</l>
@@ -326,7 +326,7 @@ Said Robin Hood, lady fair, wander with me,</l>
                <l>But ſhe ſaid, it may not be ſo, gentle fir,</l>
                <l>For I muſt be at Tidbury feaſt:</l>
                <l>
-                  <pb n="8" facs="tcp:037827_0007_100F8099C4D87698"/>
+                  <pb n="8" facs="unknown:037827_0007_100F8099C4D87698"/>
 And if Robirt Hood will go there with me,</l>
                <l>I'll make him the moſt welcome gueſt.</l>
                <l>Said Robin Hood, Reach me that buck little Joln,</l>
@@ -372,7 +372,7 @@ And if Robirt Hood will go there with me,</l>
                <l>For Tom rode before her, and call'd Mary madam</l>
                <l>And kiſs'd her ſweetly behind.</l>
                <l>
-                  <pb n="9" facs="tcp:037827_0008_100F809FC82AF910"/>
+                  <pb n="9" facs="unknown:037827_0008_100F809FC82AF910"/>
 And ſo may your worſhips; but we went to dinner,</l>
                <l>With good Thomas, Mary and Nan,</l>
                <l>They all drank a health to Clorinda, and told her,</l>
@@ -403,7 +403,7 @@ And ſo may your worſhips; but we went to dinner,</l>
                <l>And now let us frolic and ſing.</l>
             </div>
             <div type="song">
-               <pb n="10" facs="tcp:037827_0009_100F80A292B26C38"/>
+               <pb n="10" facs="unknown:037827_0009_100F80A292B26C38"/>
                <head>
                   <figure/>Robin Hood's progreſs to Nottingham, in which he ſlew fifteen Foreſters.</head>
                <l>ROBIN HOOD was a tall young man,</l>
@@ -429,7 +429,7 @@ And ſo may your worſhips; but we went to dinner,</l>
                <l>We'll hold you twenty, marks then ſaid the for<g ref="char:EOLhyphen"/>eſters,</l>
                <l>By the leave of our lady,</l>
                <l>
-                  <pb n="11" facs="tcp:037827_0010_100F80A56CA07FE0"/>
+                  <pb n="11" facs="unknown:037827_0010_100F80A56CA07FE0"/>
 Thou hit'ſt not the mark, an hundred rood,</l>
                <l>Nor cauſe a hart to die.</l>
                <l>Robin Hood he bent a noble bow,</l>
@@ -469,7 +469,7 @@ Thou hit'ſt not the mark, an hundred rood,</l>
                <l>The people that liv'd in fair Nottingham,</l>
                <l>Came running out amain,</l>
                <l>
-                  <pb n="12" facs="tcp:037827_0011_100F80A85B4798C8"/>
+                  <pb n="12" facs="unknown:037827_0011_100F80A85B4798C8"/>
 Suppoſing to have ta'en bold Robin Hood,</l>
                <l>With the foreſter; that were ſlain.</l>
                <l>Some loſt their legs and ſome their arms,</l>
@@ -492,7 +492,7 @@ Suppoſing to have ta'en bold Robin Hood,</l>
                <l>Nor Baron that is ſo bold,</l>
                <l>Nor Baron that is ſo bold,</l>
                <l>
-                  <pb n="13" facs="tcp:037827_0012_100F80ABAEB23170"/>
+                  <pb n="13" facs="unknown:037827_0012_100F80ABAEB23170"/>
 Dare make a treſpaſs to the town of Wakefield,</l>
                <l>But his pledge goes to the pinfold.</l>
                <l>All this beneard three witty young men,</l>
@@ -532,7 +532,7 @@ Dare make a treſpaſs to the town of Wakefield,</l>
                <l>O wilt thou forſake the pindar's craft,</l>
                <l>And go to the greenwood with me?</l>
                <l>
-                  <pb n="14" facs="tcp:037827_0013_100F80AE8ED472A0"/>
+                  <pb n="14" facs="unknown:037827_0013_100F80AE8ED472A0"/>
 Thou ſhalt have a livery twice in the year,</l>
                <l>The one green and the other brown.</l>
                <l>If Michaelmas day was once come and gone,</l>
@@ -556,7 +556,7 @@ Thou ſhalt have a livery twice in the year,</l>
                <l>As he walk'd the foreſt along,</l>
                <l>Some paſtime for to ſpy,</l>
                <l>
-                  <pb n="15" facs="tcp:037827_0014_100F80B0219390D8"/>
+                  <pb n="15" facs="unknown:037827_0014_100F80B0219390D8"/>
 There he was aware of a proud Biſhop,</l>
                <l>And all his company.</l>
                <l>O what ſhall I do, ſaid Robin Hood then,</l>
@@ -596,7 +596,7 @@ There he was aware of a proud Biſhop,</l>
                <l>An arrow I will at her let flee.</l>
                <l>So like an old witch looks ſhe.</l>
                <l>
-                  <pb n="16" facs="tcp:037827_0015_100F80B43B0DC858"/>
+                  <pb n="16" facs="unknown:037827_0015_100F80B43B0DC858"/>
 O hold thy hand, hold thy hand, ſaid Robin then</l>
                <l>And ſhoot not thy arrows ſo keen;</l>
                <l>I am Robin Hood, thy maſter good,</l>
@@ -634,7 +634,7 @@ O hold thy hand, hold thy hand, ſaid Robin then</l>
                <l>And out of the biſhop's portmanteau he</l>
                <l>Soon took out five hundred pound.</l>
                <l>
-                  <pb n="17" facs="tcp:037827_0016_100F80B7663B4310"/>
+                  <pb n="17" facs="unknown:037827_0016_100F80B7663B4310"/>
 So now let him go, ſaid Robin Hood,</l>
                <l>Said little John, that may not be;</l>
                <l>For I vow and proteſt, he ſhall ſing a maſs,</l>
@@ -669,7 +669,7 @@ So now let him go, ſaid Robin Hood,</l>
                <l>A ſong I intend to ſing.</l>
                <l>Upon a lucky time it chanced ſo,</l>
                <l>
-                  <pb n="18" facs="tcp:037827_0017_100F80BA1328D0D0"/>
+                  <pb n="18" facs="unknown:037827_0017_100F80BA1328D0D0"/>
 Bold Robin in the foreſt did ſpy</l>
                <l>A jolly butcher with a bonny fine mare.</l>
                <l>With his fleſh to the market did hie.</l>
@@ -707,7 +707,7 @@ Bold Robin in the foreſt did ſpy</l>
                <l>No butcher by him could thrive,</l>
                <l>For he ſold more for one penny,</l>
                <l>
-                  <pb n="19" facs="tcp:037827_0018_100F797F9EDFA408"/>
+                  <pb n="19" facs="unknown:037827_0018_100F797F9EDFA408"/>
 Than others could do for five.</l>
                <l>Which made the butchers of Nottingham</l>
                <l>To ſtudy as they did ſtand,</l>
@@ -757,7 +757,7 @@ Than others could do for five.</l>
                      <desc>•</desc>
                   </gap>es, that I have, good maſter Sheriff,</l>
                <l>
-                  <pb n="20" facs="tcp:037827_0019_100F80BFB6AD21A0"/>
+                  <pb n="20" facs="unknown:037827_0019_100F80BFB6AD21A0"/>
 I have hundreds two or three</l>
                <l>And an hundred acres of good free, land.</l>
                <l>If you pleaſe it for to ſee.</l>
@@ -809,7 +809,7 @@ I have hundreds two or three</l>
                <l>And laid it on the ground,</l>
                <l>And out of the Sheriff's fine portmanteau</l>
                <l>
-                  <pb n="21" facs="tcp:037827_0020_100F80C285405470"/>
+                  <pb n="21" facs="unknown:037827_0020_100F80C285405470"/>
 He told out three hundred pound.</l>
                <l>Then Robin brought him through the wood,</l>
                <l>With a hey down, down, and a down,</l>
@@ -839,7 +839,7 @@ He told out three hundred pound.</l>
                <l>To view the red deer, that ſport here and there</l>
                <l>He met with bold Robin Hood.</l>
                <l>
-                  <pb n="22" facs="tcp:037827_0021_100F80C418CF5568"/>
+                  <pb n="22" facs="unknown:037827_0021_100F80C418CF5568"/>
 As ſoon as bold Robin did him eſpy,</l>
                <l>He thought ſome ſport he might make,</l>
                <l>Therefore out of hand, he bid him to ſtand,</l>
@@ -877,7 +877,7 @@ As ſoon as bold Robin did him eſpy,</l>
                <l>He took up a ſtaff of a ſtrong oak graff,</l>
                <l>That was both ſtiff and ſtrong.</l>
                <l>
-                  <pb n="23" facs="tcp:037827_0022_100F80C5AA6EB390"/>
+                  <pb n="23" facs="unknown:037827_0022_100F80C5AA6EB390"/>
 I yield to thy weapons, ſaid jolly Robin,</l>
                <l>If thou wilt but yield to mine;</l>
                <l>For I a have a ſtaff of a ſtrong oak graff,</l>
@@ -919,7 +919,7 @@ I yield to thy weapons, ſaid jolly Robin,</l>
                <l>Hold thy hand, hold thy hand, ſaid Robin Hood.</l>
                <l>And let our bloody quarrel-fall.</l>
                <l>
-                  <pb n="24" facs="tcp:037827_0023_100F80C895C209B0"/>
+                  <pb n="24" facs="unknown:037827_0023_100F80C895C209B0"/>
 For he<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>e we may thraſh our bones all to maſh,</l>
@@ -961,7 +961,7 @@ For he<gap reason="illegible" resp="#PDCC" extent="1 letter">
                <l>But quickly and anon, appeard little John,</l>
                <l>Come tripping down a green hill.</l>
                <l>
-                  <pb n="25" facs="tcp:037827_0024_100F80CEA40C31F8"/>
+                  <pb n="25" facs="unknown:037827_0024_100F80CEA40C31F8"/>
 O what is the matter, then ſaid li<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>le John,</l>
@@ -1010,7 +1010,7 @@ O what is the matter, then ſaid li<gap reason="illegible" resp="#PDCC" extent="
                <l>Of Robin Hood, Arthur, and John.</l>
             </div>
             <div n="7" type="song">
-               <pb n="26" facs="tcp:037827_0025_100F80D1978462C0"/>
+               <pb n="26" facs="unknown:037827_0025_100F80D1978462C0"/>
                <head>
                   <figure/>VII. Robin Hood and the jovial <gap reason="illegible" resp="#PDCC" extent="3 letters">
                      <desc>•••</desc>
@@ -1034,7 +1034,7 @@ O what is the matter, then ſaid li<gap reason="illegible" resp="#PDCC" extent="
                <l>I am a Tinker to my trade,</l>
                <l>And live at Banbury.</l>
                <l>
-                  <pb n="27" facs="tcp:037827_0026_100F80D329D997B0"/>
+                  <pb n="27" facs="unknown:037827_0026_100F80D329D997B0"/>
 As for the news, quoth Robin Hood,</l>
                <l>It is but as I hear,</l>
                <l>Two tinkers they were i'th ſtocks</l>
@@ -1097,7 +1097,7 @@ As for the news, quoth Robin Hood,</l>
                      <desc>•</desc>
                   </gap>ll truſt:</l>
                <l>
-                  <pb n="28" facs="tcp:037827_0027_100F80D607B11208"/>
+                  <pb n="28" facs="unknown:037827_0027_100F80D607B11208"/>
 And where he is if you'll not tell,</l>
                <l>Take him by force I muſt.</l>
                <l>But Robin Hood perceiving well</l>
@@ -1133,7 +1133,7 @@ And where he is if you'll not tell,</l>
                <l>He that promiſed to be my friend,</l>
                <l>He's gone and fled away.</l>
                <l>
-                  <pb n="29" facs="tcp:037827_0028_100F80DA477C1B70"/>
+                  <pb n="29" facs="unknown:037827_0028_100F80DA477C1B70"/>
 That friend you ſpeak of ſaid the hoſt</l>
                <l>They call him Robin Hood,</l>
                <l>When that firſt he met with you,</l>
@@ -1169,7 +1169,7 @@ That friend you ſpeak of ſaid the hoſt</l>
                <l>No knave, no knave, the tinker ſaid,</l>
                <l>And that you ſoon ſhall know;</l>
                <l>
-                  <pb n="30" facs="tcp:037827_0029_100F80DD52ADC0E8"/>
+                  <pb n="30" facs="unknown:037827_0029_100F80DD52ADC0E8"/>
 Which of us hath done moſt wrong,</l>
                <l>My crab tree ſtaff ſhall ſhow.</l>
                <l>Then Robin drew his gallant blade.</l>
@@ -1215,7 +1215,7 @@ Which of us hath done moſt wrong,</l>
                      <desc>•</desc>
                   </gap>rd pound I give</l>
                <l>
-                  <pb n="31" facs="tcp:037827_0030_100F80DEE615AA10"/>
+                  <pb n="31" facs="unknown:037827_0030_100F80DEE615AA10"/>
 In the year to maintain him one,</l>
                <l>As long as he doth live,</l>
                <l>In manhood he's a mettle man,</l>
@@ -1234,7 +1234,7 @@ In the year to maintain him one,</l>
                <l>And ſo I end my ſong.</l>
             </div>
             <div n="8" type="song">
-               <pb n="32" facs="tcp:037827_0031_100F80E1F1D9FA68"/>
+               <pb n="32" facs="unknown:037827_0031_100F80E1F1D9FA68"/>
                <head>
                   <figure/>VIII. Robin Hood and Allen-a-D<gap reason="illegible" resp="#PDCC" extent="3 letters">
                      <desc>•••</desc>
@@ -1267,7 +1267,7 @@ In the year to maintain him one,</l>
                <l>For my merry men and me?</l>
                <l>I have no money; the young man ſaid,</l>
                <l>
-                  <pb n="33" facs="tcp:037827_0032_100F80E644D19CB0"/>
+                  <pb n="33" facs="unknown:037827_0032_100F80E644D19CB0"/>
 But five ſhillings and a ring;</l>
                <l>And that I'have kept theſe ſoven ſon, years,</l>
                <l>To have it at my wedding.</l>
@@ -1326,7 +1326,7 @@ But five ſhillings and a ring;</l>
                      <desc>•</desc>
                   </gap> I ſee.</l>
                <l>
-                  <pb n="34" facs="tcp:037827_0033_100F80E918D7CD60"/>
+                  <pb n="34" facs="unknown:037827_0033_100F80E918D7CD60"/>
 With that came in a worthy knight,</l>
                <l>Which was both grave and old,</l>
                <l>And after him a finikin laſs,</l>
@@ -1366,7 +1366,7 @@ With that came in a worthy knight,</l>
                <l>Quoth Robin Hood, that do I,</l>
                <l>And he who takes her from Allen a Dale,</l>
                <l>
-                  <pb n="35" facs="tcp:037827_0034_100F80EAAAA44A50"/>
+                  <pb n="35" facs="unknown:037827_0034_100F80EAAAA44A50"/>
 Full dearly ſhall he buy.</l>
                <l>And thus having ended the merry wedding,</l>
                <l>The bride look'd like a Queen;</l>
@@ -1390,7 +1390,7 @@ Full dearly ſhall he buy.</l>
                <l>And now come let me ſee,</l>
                <l>What is in thy bag and bottle, I ſay,</l>
                <l>
-                  <pb n="36" facs="tcp:037827_0035_100F80EC5ACC4E48"/>
+                  <pb n="36" facs="unknown:037827_0035_100F80EC5ACC4E48"/>
 Come tell it unto me.</l>
                <l>What's that to thee? thou proud fellow,</l>
                <l>Tell me as I do ſtand,</l>
@@ -1437,7 +1437,7 @@ Come tell it unto me.</l>
                <l>Robin's buckler prov'd his chief defence,</l>
                <l>And ſav'd him many a bang;</l>
                <l>
-                  <pb n="37" facs="tcp:037827_0036_100F80F243AAFED0"/>
+                  <pb n="37" facs="unknown:037827_0036_100F80F243AAFED0"/>
 For every blow the ſhepherd gave,</l>
                <l>He made Robin's ſword cry <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -1483,7 +1483,7 @@ For every blow the ſhepherd gave,</l>
                <l>For about with thee I mean to have,</l>
                <l>Either come fight or flee.</l>
                <l>
-                  <pb n="38" facs="tcp:037827_0037_100F80F56B473940"/>
+                  <pb n="38" facs="unknown:037827_0037_100F80F56B473940"/>
 The ſhepherd gave John a ſturdy blow,</l>
                <l>With his book under the chin,</l>
                <l>Beſhrew thy heart, ſaid little John,</l>
@@ -1506,7 +1506,7 @@ The ſhepherd gave John a ſturdy blow,</l>
                <l>The like was never known.</l>
             </div>
             <div n="10" type="song">
-               <pb n="39" facs="tcp:037827_0038_100F80F7049B7D38"/>
+               <pb n="39" facs="unknown:037827_0038_100F80F7049B7D38"/>
                <head>
                   <figure/>X. The famous Battle between Ro<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -1536,7 +1536,7 @@ The ſhepherd gave John a ſturdy blow,</l>
                <l>Joy on thy heart, ſaid Robin Hood,</l>
                <l>That ſhot luch a ſhot for me!</l>
                <l>
-                  <pb n="40" facs="tcp:037827_0039_100F80FB95BD23C8"/>
+                  <pb n="40" facs="unknown:037827_0039_100F80FB95BD23C8"/>
 I'll ride my horſe an hundred miles</l>
                <l>To find one that can match thee.</l>
                <l>That caus'd Will Scadlock to laugh,</l>
@@ -1586,7 +1586,7 @@ I'll ride my horſe an hundred miles</l>
                <l>Carry me back thou fine fellow,</l>
                <l>Or it ſhall breed thee pain.</l>
                <l>
-                  <pb n="41" facs="tcp:037827_0040_100F80FE4A99AB38"/>
+                  <pb n="41" facs="unknown:037827_0040_100F80FE4A99AB38"/>
 Robin he took the Fryar on his back,</l>
                <l>Deep water did beſtride,</l>
                <l>And ſpoke neither good word nor bad,</l>
@@ -1623,7 +1623,7 @@ Robin he took the Fryar on his back,</l>
                <l>And blow out blaſts three.</l>
                <l>That I will do, ſaid the courtal fryar,</l>
                <l>
-                  <pb n="42" facs="tcp:037827_0041_100F810146989940"/>
+                  <pb n="42" facs="unknown:037827_0041_100F810146989940"/>
 Of blaſts I have no doubt,</l>
                <l>I hope thou'lt blow ſo paſſing well,</l>
                <l>Till both thy eyes fall out.</l>
@@ -1663,7 +1663,7 @@ Of blaſts I have no doubt,</l>
                <l>The courtal dogs ſo taught they were,</l>
                <l>Caught the arrows in their mouth</l>
                <l>
-                  <pb n="43" facs="tcp:037827_0042_100F8102D589FE08"/>
+                  <pb n="43" facs="unknown:037827_0042_100F8102D589FE08"/>
 Take up thy dogs, ſaid little John;</l>
                <l>Fryar I pray to thee;</l>
                <l>Whoſe manart thou, ſaid the fryar,</l>
@@ -1703,7 +1703,7 @@ Take up thy dogs, ſaid little John;</l>
                <l>Could make him yield before.</l>
             </div>
             <div n="11" type="song">
-               <pb n="44" facs="tcp:037827_0043_100F810780FA0BB8"/>
+               <pb n="44" facs="unknown:037827_0043_100F810780FA0BB8"/>
                <head>
                   <figure/>XI. Robin Hood and the ſtranger.</head>
                <opener>To a New Tune.</opener>
@@ -1727,7 +1727,7 @@ Take up thy dogs, ſaid little John;</l>
                <l>The ſtranger made no mickle ado,</l>
                <l>But bent a right good bow,</l>
                <l>
-                  <pb n="45" facs="tcp:037827_0044_100F810B201EA800"/>
+                  <pb n="45" facs="unknown:037827_0044_100F810B201EA800"/>
 The beſt buck in the herd he ſlew,</l>
                <l>Forty good feet him fro.</l>
                <l>Well ſhot, well ſhot Robin Hood,</l>
@@ -1766,7 +1766,7 @@ The beſt buck in the herd he ſlew,</l>
                <l>My name is young Gamwell.</l>
                <l>For killing of my father's ſteward,</l>
                <l>
-                  <pb n="46" facs="tcp:037827_0045_100F810DF0DBA8F0"/>
+                  <pb n="46" facs="unknown:037827_0045_100F810DF0DBA8F0"/>
 Am fore'd to the Engliſh wood,</l>
                <l>And for to ſeek an uncle of mine,</l>
                <l>Some call him Robin Hood.</l>
@@ -1800,7 +1800,7 @@ Am fore'd to the Engliſh wood,</l>
                <l>And Scarlet he ſhall be.</l>
             </div>
             <div n="12" type="song">
-               <pb n="47" facs="tcp:037827_0046_100F810F8B31AD48"/>
+               <pb n="47" facs="unknown:037827_0046_100F810F8B31AD48"/>
                <head>
                   <figure/>XII. Robin Hood and Queen Catharine.</head>
                <opener>TO A NEW TUNE.</opener>
@@ -1824,7 +1824,7 @@ Am fore'd to the Engliſh wood,</l>
                <l>And as thou goeſt to Nottingham,</l>
                <l>Search all the Engliſh wood,</l>
                <l>
-                  <pb n="48" facs="tcp:037827_0047_100F8112D185EE70"/>
+                  <pb n="48" facs="unknown:037827_0047_100F8112D185EE70"/>
 Enquire of one good yeoman or other,</l>
                <l>That can tell you of bold Robin Hood.</l>
                <l>Sometimes he went, ſometimes he ran,</l>
@@ -1860,7 +1860,7 @@ Enquire of one good yeoman or other,</l>
                <l>Black hats white feathers, all alike,</l>
                <l>Now bold Robin Hood in red.</l>
                <l>
-                  <pb n="49" facs="tcp:037827_0048_100F8116F36F7B00"/>
+                  <pb n="49" facs="unknown:037827_0048_100F8116F36F7B00"/>
 And when he came to London court.</l>
                <l>He fell down on his knee,</l>
                <l>Thou'rt welcome Lockſly, ſaid the Queen.</l>
@@ -1897,7 +1897,7 @@ And when he came to London court.</l>
                      <desc>•</desc>
                   </gap>tharine crier.</l>
                <l>
-                  <pb n="50" facs="tcp:037827_0049_100F8119B5201130"/>
+                  <pb n="50" facs="unknown:037827_0049_100F8119B5201130"/>
 I crave it on my knee,</l>
                <l>Is there never a knight in your privy council</l>
                <l>On Queen Catharine's ſide will be?</l>
@@ -1940,7 +1940,7 @@ I crave it on my knee,</l>
                      <desc>〈◊〉</desc>
                   </gap>.</l>
                <l>
-                  <pb n="51" facs="tcp:037827_0050_100F811B4DC2EB30"/>
+                  <pb n="51" facs="unknown:037827_0050_100F811B4DC2EB30"/>
 And little Midge the miller's ſon,</l>
                <l>He <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -1985,7 +1985,7 @@ And little Midge the miller's ſon,</l>
                <l>That gold will ſerve thee and me.</l>
             </div>
             <div n="13" type="song">
-               <pb n="52" facs="tcp:037827_0051_100F811E46B39768"/>
+               <pb n="52" facs="unknown:037827_0051_100F811E46B39768"/>
                <head>
                   <figure/>XIII. Robin Hood's chaſe: Or, a merry pro<g ref="char:EOLhyphen"/>greſs between Robin Hood and King Henry; ſhewing how Robin Hood led the King a Chaſe from Nottingham to London; and when he had taken his leave of the Queen he returned to merry Sherwood.</head>
                <opener>TUNE—Robin Hood and the Beggar.</opener>
@@ -2006,7 +2006,7 @@ And little Midge the miller's ſon,</l>
                <l>To ſend for Robin Hood.</l>
                <l>But when hold Robin Hood he came there,</l>
                <l>
-                  <pb n="53" facs="tcp:037827_0052_100F8122A3A0F8C0"/>
+                  <pb n="53" facs="unknown:037827_0052_100F8122A3A0F8C0"/>
 Queen Ca<gap reason="illegible" resp="#PDCC" extent="3 letters">
                      <desc>•••</desc>
                   </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2058,7 +2058,7 @@ Queen Ca<gap reason="illegible" resp="#PDCC" extent="3 letters">
                <l>And the King did follow, with a troop and a hol<g ref="char:EOLhyphen"/>low.</l>
                <l>But could not him come nigh.</l>
                <l>
-                  <pb n="54" facs="tcp:037827_0053_100F812584FC4E60"/>
+                  <pb n="54" facs="unknown:037827_0053_100F812584FC4E60"/>
 Yet jolly Robin he paſſed along</l>
                <l>And went ſtraight to Newcaſtle <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -2099,7 +2099,7 @@ Yet jolly Robin he paſſed along</l>
                <l>Full weary and vex'd in mind,</l>
                <l>And that he did hear Robin Hood had been there</l>
                <l>
-                  <pb n="55" facs="tcp:037827_0054_100F812717CE9EA8"/>
+                  <pb n="55" facs="unknown:037827_0054_100F812717CE9EA8"/>
 He blam'd <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> fortune unkind.</l>
@@ -2133,7 +2133,7 @@ He blam'd <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> ſuch a tale as this before,</l>
                <l>
-                  <pb n="56" facs="tcp:037827_0055_100F812AB2B4BA68"/>
+                  <pb n="56" facs="unknown:037827_0055_100F812AB2B4BA68"/>
 I think there was never known,</l>
                <l>For Robin Hood diſguiſed him<gap reason="illegible" resp="#PDCC" extent="4 letters">
                      <desc>••••</desc>
@@ -2176,7 +2176,7 @@ I think there was never known,</l>
                      <desc>••</desc>
                   </gap> ſome money we will pray.</l>
                <l>
-                  <pb n="57" facs="tcp:037827_0056_100F812F422BDCC8"/>
+                  <pb n="57" facs="unknown:037827_0056_100F812F422BDCC8"/>
 The prieſts they could not now gain-ſay,</l>
                <l>But down they kneel'd with ſpeed;</l>
                <l>Send us, oh ſend us, then quoth they,</l>
@@ -2217,7 +2217,7 @@ The prieſts they could not now gain-ſay,</l>
                <l>But they ſigh'd wond'rous deep.</l>
                <l>With that the prieſts roſe from their knees.</l>
                <l>
-                  <pb n="58" facs="tcp:037827_0057_100F81327381C698"/>
+                  <pb n="58" facs="unknown:037827_0057_100F81327381C698"/>
 Thinking to have parted ſo;</l>
                <l>Nay, ſtay, ſaid Robin Hood, one thing more</l>
                <l>I have to ſay e'er you go.</l>
@@ -2240,7 +2240,7 @@ Thinking to have parted ſo;</l>
                <l>Tidings there came to him with ſpeed.</l>
                <l>Tidings with certainty.</l>
                <l>
-                  <pb n="59" facs="tcp:037827_0058_100F8135916C6F18"/>
+                  <pb n="59" facs="unknown:037827_0058_100F8135916C6F18"/>
 That Will Stutely ſurpriſed was,</l>
                <l>And eke in priſon ſay,</l>
                <l>Three variets which the King had hir'd,</l>
@@ -2291,7 +2291,7 @@ That Will Stutely ſurpriſed was,</l>
                   </gap>lmer fair,</l>
                <l>That ſtands under the caſtle wall,</l>
                <l>
-                  <pb n="60" facs="tcp:037827_0059_100F81387792FD60"/>
+                  <pb n="60" facs="unknown:037827_0059_100F81387792FD60"/>
 Some news he may declare.</l>
                <l>With that ſteps forth a brave young man,</l>
                <l>Which was of courage bold:</l>
@@ -2328,7 +2328,7 @@ Some news he may declare.</l>
                <l>Now ſeeing that I at laſt muſt die,</l>
                <l>Grant me but one boon, ſays he,</l>
                <l>
-                  <pb n="61" facs="tcp:037827_0060_100F813BC5D6D7B0"/>
+                  <pb n="61" facs="unknown:037827_0060_100F813BC5D6D7B0"/>
 For my noble maſter never had a man</l>
                <l>That yet was hang'd on a tree,</l>
                <l>Give me my ſharp ſword in my hand,</l>
@@ -2366,7 +2366,7 @@ For my noble maſter never had a man</l>
                <l>Now as I live, the ſheriff he ſaid,</l>
                <l>That varlet well I know;</l>
                <l>
-                  <pb n="62" facs="tcp:037827_0061_100F813EC2CD50D0"/>
+                  <pb n="62" facs="unknown:037827_0061_100F813EC2CD50D0"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ome thirdy rebel is that ſame.</l>
@@ -2415,7 +2415,7 @@ For my noble maſter never had a man</l>
                <l>Or ſeen my maſter's face,</l>
                <l>Thus Stutely was at liberty ſet,</l>
                <l>
-                  <pb n="63" facs="tcp:037827_0062_100F81405ECC79C8"/>
+                  <pb n="63" facs="unknown:037827_0062_100F81405ECC79C8"/>
 And ſafe brought from <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> for;</l>
@@ -2438,7 +2438,7 @@ And ſafe brought from <gap reason="illegible" resp="#PDCC" extent="1 word">
                <l>Doth bud and ſpring with merry cheer,</l>
                <l>This out-law was weary of the wood ſide,</l>
                <l>
-                  <pb n="64" facs="tcp:037827_0063_100F814353B1D6F0"/>
+                  <pb n="64" facs="unknown:037827_0063_100F814353B1D6F0"/>
 And chaſing of the fallow deer.</l>
                <l>The fiſherman brave, more money have,</l>
                <l>Than any merchant two or three;</l>
@@ -2476,7 +2476,7 @@ And chaſing of the fallow deer.</l>
                <l>Is every one loſt and forlorn:</l>
                <l>For theſe French robbers on the ſea.</l>
                <l>
-                  <pb n="65" facs="tcp:037827_0064_100F81467977A798"/>
+                  <pb n="65" facs="unknown:037827_0064_100F81467977A798"/>
 They will not ſpare, no, not one man,</l>
                <l>But c<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -2504,7 +2504,7 @@ They will not ſpare, no, not one man,</l>
                <l>Where they ſhall live in peace and reſt.</l>
             </div>
             <div n="17" type="song">
-               <pb n="66" facs="tcp:037827_0065_100F814C2F413E88"/>
+               <pb n="66" facs="unknown:037827_0065_100F814C2F413E88"/>
                <head>
                   <figure/>XVII. Robin Hood's delight: or a merry com<g ref="char:EOLhyphen"/>bat fought between Robin Hood. Will Sc<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -2528,7 +2528,7 @@ They will not ſpare, no, not one man,</l>
                <l>And we'll make you know before we go,</l>
                <l>That you have met with Robin Hood.</l>
                <l>
-                  <pb n="67" facs="tcp:037827_0066_100F814DC1A3A998"/>
+                  <pb n="67" facs="unknown:037827_0066_100F814DC1A3A998"/>
 We be content, thou bold out law,</l>
                <l>Our valor here to try,</l>
                <l>And w<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2565,7 +2565,7 @@ We be content, thou bold out law,</l>
                <l>And drank themſelves to friends.</l>
             </div>
             <div n="18" type="song">
-               <pb n="68" facs="tcp:037827_0067_100F814FB71B0288"/>
+               <pb n="68" facs="unknown:037827_0067_100F814FB71B0288"/>
                <head>
                   <figure/>XVIII. Robin Hood and the Beggar; Shewing how he and the Beggar fought, and changed clothes. How he went a begging to Notting<g ref="char:EOLhyphen"/>ham.</head>
                <opener>TUNE—Robin Hood and the Stranger.</opener>
@@ -2586,7 +2586,7 @@ We be content, thou bold out law,</l>
                <l>What country man tell unto me?</l>
                <l>I am of Yorkſhire, ſir; but ere you go far,</l>
                <l>
-                  <pb n="69" facs="tcp:037827_0068_100F815472D2AA78"/>
+                  <pb n="69" facs="unknown:037827_0068_100F815472D2AA78"/>
 Some charity give unto me?</l>
                <l>I have <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -2620,7 +2620,7 @@ Some charity give unto me?</l>
                <l>My horſe and my bravery.</l>
             </div>
             <div n="19" type="song">
-               <pb n="70" facs="tcp:037827_0069_100F81579A887B00"/>
+               <pb n="70" facs="unknown:037827_0069_100F81579A887B00"/>
                <head>
                   <figure/>XIX. Robin Hood, Will Scarlet, and little John or, A narrative of their Victory obtained a<g ref="char:EOLhyphen"/>gainſt the Prince of Arragon and the two Gi<g ref="char:EOLhyphen"/>ants: And how Will Scarlet married the Prin<g ref="char:EOLhyphen"/>ceſs.</head>
                <opener>TUNE—Robin Hood: or, a hey down a down.</opener>
@@ -2643,7 +2643,7 @@ Some charity give unto me?</l>
                <l>Who when they arriv'd, and Robin eſpy'd,</l>
                <l>Cry'd, maſter what is your will?</l>
                <l>
-                  <pb n="71" facs="tcp:037827_0070_100F81592C6AB270"/>
+                  <pb n="71" facs="unknown:037827_0070_100F81592C6AB270"/>
 We thought you had in danger been,</l>
                <l>Your horn did ſound ſo ſhrill.</l>
                <l>Now nay, now nay, quoth Robin Hood.</l>
@@ -2701,7 +2701,7 @@ We thought you had in danger been,</l>
                <l>Moſt horrid for to ſee;</l>
                <l>The Princeſs ſhall be the victor's prize,</l>
                <l>
-                  <pb n="72" facs="tcp:037827_0071_100F815D88BED0B8"/>
+                  <pb n="72" facs="unknown:037827_0071_100F815D88BED0B8"/>
 The King hath vow'd and ſaid,</l>
                <l>And he that ſhall the conqueſt win,</l>
                <l>Shall have her to his bride.</l>
@@ -2748,7 +2748,7 @@ The King hath vow'd and ſaid,</l>
                <l>A ſcrip and bottle by our fides.</l>
                <l>As if come from the holy lands.</l>
                <l>
-                  <pb n="73" facs="tcp:037827_0072_100F8160E5684B40"/>
+                  <pb n="73" facs="unknown:037827_0072_100F8160E5684B40"/>
 Now they are on their journey gone,</l>
                <l>As far as they may ſpeed;</l>
                <l>Yet for all their haſte, e'er they arriv'd,</l>
@@ -2783,7 +2783,7 @@ Now they are on their journey gone,</l>
                <l>Blood ſprang from every vein.</l>
                <l>The prince he reach'd bold Robin a blow,</l>
                <l>
-                  <pb n="74" facs="tcp:037827_0073_100F8163CD1307D8"/>
+                  <pb n="74" facs="unknown:037827_0073_100F8163CD1307D8"/>
 He ſtruck him with might and main;</l>
                <l>Forc'd him to reel about the field,</l>
                <l>And thought he had been ſlain.</l>
@@ -2826,7 +2826,7 @@ He ſtruck him with might and main;</l>
                   </gap>
                </l>
                <l>
-                  <pb n="75" facs="tcp:037827_0074_100F81655E8FC2D0"/>
+                  <pb n="75" facs="unknown:037827_0074_100F81655E8FC2D0"/>
 Tell me, quoth the King, whence you are,</l>
                <l>That thus diſguiſed came?</l>
                <l>Whoſe valor ſpeaks that noble blood</l>
@@ -2865,7 +2865,7 @@ Tell me, quoth the King, whence you are,</l>
                <l>And ſo I bid you good night.</l>
             </div>
             <div n="20" type="song">
-               <pb n="76" facs="tcp:037827_0075_100F81688D3443A8"/>
+               <pb n="76" facs="unknown:037827_0075_100F81688D3443A8"/>
                <head>XX. Little John and the four Beggars.</head>
                <opener>TUNE—Robin Hood and the Beggar.</opener>
                <l>ALL you that delight to ſpend ſome time,</l>
@@ -2901,7 +2901,7 @@ Tell me, quoth the King, whence you are,</l>
                <l>And the blind that could not ſee;</l>
                <l>And he that had been cripple ſeven years,</l>
                <l>
-                  <pb n="77" facs="tcp:037827_0076_100F816B704FF738"/>
+                  <pb n="77" facs="unknown:037827_0076_100F816B704FF738"/>
 He made him run faſter than he.</l>
                <l>Then he got out of the beggar's cloak,</l>
                <l>Three hundred pound in gold;</l>
@@ -2938,7 +2938,7 @@ He made him run faſter than he.</l>
                <l>Three hours the combat did laſt.</l>
                <l>At length in a rage the bold foreſter grew.</l>
                <l>
-                  <pb n="78" facs="tcp:037827_0077_100F816FC44863C8"/>
+                  <pb n="78" facs="unknown:037827_0077_100F816FC44863C8"/>
 And cudgell'd bold Robin ſo ſore,</l>
                <l>That he could not ſtand, ſo ſhaking his head,</l>
                <l>He cry'd, let us freely give o'er.</l>
@@ -2974,7 +2974,7 @@ And cudgell'd bold Robin ſo ſore,</l>
                <l>With a link a down, down and a day,</l>
                <l>And there he met the proud Sheriff,</l>
                <l>
-                  <pb n="79" facs="tcp:037827_0078_100F817286C1E390"/>
+                  <pb n="79" facs="unknown:037827_0078_100F817286C1E390"/>
 Walking along the highway:</l>
                <l>O ſave, O ſave, O Sheriff! he ſaid,</l>
                <l>What to day will you give unto me?</l>
@@ -3013,7 +3013,7 @@ Walking along the highway:</l>
                <l>Having conſulted a long ſummer's day,</l>
                <l>At length it was agreed,</l>
                <l>
-                  <pb n="80" facs="tcp:037827_0079_100F81757199C4E8"/>
+                  <pb n="80" facs="unknown:037827_0079_100F81757199C4E8"/>
 That one ſhould be ſent to try the event,</l>
                <l>And fetch him away with ſpeed.</l>
                <l>Therefore, a truſty moſt worthy Knight,</l>
